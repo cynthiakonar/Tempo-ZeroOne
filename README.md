@@ -8,12 +8,12 @@ Our project for Smart India Hackathon 2022
  ⚫Category: Software		<br>
  ⚫Domain Bucket: Blockchain & Cybersecurity <br>
  ⚫Youtube Link: https://youtu.be/-LQJlXv5X8k	<br>
- ⚫Dataset Link: Dataset-PS-320211115170842.pdf<br>
+ ⚫Dataset Link: https://t.ly/LaGW<br>
 </ul>
 
 
 <ul>
-  > Documentation :  http://t.ly/oI3g <br>
+  > Documentation :  https://t.ly/oI3g <br>
   > Video Link    :   <br>
   > Github Link   :  
   </ul>
