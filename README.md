@@ -3,12 +3,12 @@ Our project for Smart India Hackathon 2022
 
 <ul>
 <b><i>PROBLEM STATEMENT DETAILS</b></i>
-
-Organization: Gas Authority of India Ltd (GAIL)
-Category: Software		
-Domain Bucket: Blockchain & Cybersecurity 
-Youtube Link: https://youtu.be/-LQJlXv5X8k	
-Dataset Link: Dataset-PS-320211115170842.pdf
+<br>
+Organization: Gas Authority of India Ltd (GAIL)<br>
+Category: Software		<br>
+Domain Bucket: Blockchain & Cybersecurity <br>
+Youtube Link: https://youtu.be/-LQJlXv5X8k	<br>
+Dataset Link: Dataset-PS-320211115170842.pdf<br>
 </ul>
 
 
